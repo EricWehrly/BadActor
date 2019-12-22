@@ -1,3 +1,8 @@
+//# sourceURL=ui.js
+
+jQuery.getScript("js/ui/customStyles.js");
+jQuery.getScript("js/ui/ui-machines.js");
+
 BadActor.UI = {};
 
 BadActor.UI.SetUp = function() {
