@@ -23,6 +23,3 @@ var cssString = `
 }
 `;
 titleStyle.appendChild(document.createTextNode(cssString));
-
-// modal
-// enter machine name ...
